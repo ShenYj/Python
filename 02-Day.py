@@ -1,4 +1,4 @@
-print('first demo')
+print('----------first demo----------')
 temp = input("不妨猜一下XXX现在心里想的是哪个数字:")
 guess = int(temp)
 if guess == 8:
@@ -8,3 +8,5 @@ else:
     print("猜错啦,XXX现在心里想的是8!")
 
 print("游戏结束,不玩啦^_^")
+
+
